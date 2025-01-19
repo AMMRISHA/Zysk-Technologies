@@ -21,8 +21,8 @@ function Navbar() {
         <div  className={isMenuOpen ? "menu open" : "menu"}>
           <ul className='navlist'>
           <li>Home</li>
-          <li>Products <RiArrowDropDownLine /></li>
-          <li>Resources <RiArrowDropDownLine /></li>
+          <li>Products <RiArrowDropDownLine size={20} /></li>
+          <li>Resources <RiArrowDropDownLine size={20} /></li>
           <li>Pricing</li>
           </ul>
           <li className="rightlogo">

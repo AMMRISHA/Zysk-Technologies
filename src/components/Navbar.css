@@ -70,7 +70,16 @@
     padding: 7px 7px;
   }
 }
-/* Media Query for screens smaller than 400px */
+/* Media Query for screens smaller than 600px */
+
+@media (max-width: 720px) {
+  .menu li{
+    font-size: 12px;
+  }
+  .navlist{
+    padding: 0 15px;
+  }
+}
 @media (max-width: 600px) {
   /* Show the dropdown button */
   .navlist{
