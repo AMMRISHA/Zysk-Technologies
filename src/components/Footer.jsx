@@ -6,7 +6,7 @@ function Footer()
   return <>
   <div className='navbar'>
       <ul style={{listStyle:"none"}}>
-        <li><img src="/public/logo.JPG"></img></li>
+        <li><img src="logo.JPG"></img></li>
         
       </ul>
       <div className='rightlogo'>

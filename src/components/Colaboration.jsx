@@ -7,27 +7,27 @@ function Colaboration(){
        <div className="colabanme">
      
           <div className="box">
-              <img src="public/logo4.JPG"></img>
+              <img src="logo4.JPG"></img>
               <h2>Boltshift</h2>
             </div>
             <div className="box">
-            <img src="public/logo5.JPG"></img>
+            <img src="logo5.JPG"></img>
             <h2>Lightbox</h2>
             </div>
             <div className="box">
-            <img src="public/logo6.JPG"></img>
+            <img src="logo6.JPG"></img>
             <h2>FeatherDev</h2>
             </div>
             <div className="box">
-            <img src="public/logo7.JPG"></img>
+            <img src="logo7.JPG"></img>
             <h2>Spherule</h2>
             </div>
             <div className="box">
-            <img src="public/logo8.JPG"></img>
+            <img src="logo8.JPG"></img>
             <h2>GlobalBank</h2>
             </div>
             <div className="box">
-            <img src="public/logo10.JPG"></img>
+            <img src="logo10.JPG"></img>
             <h2>Nietzsche</h2>
             </div>
        </div>
