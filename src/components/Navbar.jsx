@@ -16,7 +16,7 @@ function Navbar() {
       <div className="navbar">
       
         <div className='navlogo'>
-            <img src="/public/logo.jpg" alt="Right Logo" />
+            <img src="public/logo.jpg" alt="Right Logo" />
           </div>
         <div  className={isMenuOpen ? "menu open" : "menu"}>
           <ul className='navlist'>
@@ -26,7 +26,7 @@ function Navbar() {
           <li>Pricing</li>
           </ul>
           <li className="rightlogo">
-            <img src="/public/logo2.jpg" alt="Logo" />
+            <img src="public/logo2.jpg" alt="Logo" />
           </li>
         </div>
 
