@@ -4,7 +4,7 @@ import './Navbar.css';
 function Footer()
 {
   return <>
-  <div className='navbar'>
+  <div className='navbar' style={{width:"90%"}}>
       <ul style={{listStyle:"none"}}>
         <li><img src="logo.JPG"></img></li>
         
