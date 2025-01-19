@@ -25,7 +25,7 @@ function App()
       heading5:"Design",
       heading3:"UX review presentations ",
       para:"How do you create compelling presentations that wow your colleagues and impress your managers?",
-      blogLower1link:"public/logo2.JPG",
+      blogLower1link:"logo2.JPG",
       heading6:"Olivia Riya",
       heading7:"20 Jan 2024"
 
@@ -36,7 +36,7 @@ function App()
       heading5:"Product",
       heading3:"Migrating to Linear 101 ",
       para:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started.",
-      blogLower1link:"public/logo21.JPG",
+      blogLower1link:"logo21.JPG",
       heading6:"Phoenix Baker",
       heading7:"19 Jan 2024"
 
