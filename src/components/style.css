@@ -179,6 +179,15 @@ text-align: center;
   .footerdes {
 width: 100%;
   }
+
+}
+@media (max-width:650px) {
+  .footerdes {
+width: 95%;
+  }
+  .footerdes ul{
+    width: 150px;
+  }
 }
 @media (max-width:500px) {
   .freq{
