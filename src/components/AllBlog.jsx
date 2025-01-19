@@ -18,7 +18,7 @@ function AllBlog({Blogseries})
     <Blog blogimg={AllBlogDetails.link} blogh5={AllBlogDetails. heading5} blogh3={AllBlogDetails.heading3} blogp={AllBlogDetails. para} bloglowerimg={AllBlogDetails.blogLower1link} blogh6={AllBlogDetails.heading6}  blogh7={AllBlogDetails.heading7}  ></Blog>
     )}
     </div>
-    <button class="upperbtn21 disafter radius " style={{backgroundColor:"rgb(230, 63, 58)" , color:"white" , border:"none"}}>View all posts </button>
+    <button class="upperbtn21 disafter radius " style={{backgroundColor:"rgb(230, 63, 58)" , color:"white" , border:"none" , width:"80%"}}>View all posts </button>
     </div>
   </>
 }
