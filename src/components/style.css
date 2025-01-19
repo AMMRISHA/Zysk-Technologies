@@ -116,7 +116,9 @@ display: flex;
   display: flex;
   
 }
-
+.footerdes ul li li{
+  display: flex;
+}
 
 /* frequestly question */
 
