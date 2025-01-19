@@ -1,6 +1,6 @@
 import DesDetails from "./DesDetails";
 import './style.css';
-import NewButton from "./NewButton";
+
 function FooterDetails({ FooterDetails }) {
   return (
     <>
@@ -8,7 +8,7 @@ function FooterDetails({ FooterDetails }) {
       {FooterDetails.map((details) => (
         <ul key={details.id}>
         <h6> {details.footColName}
-        {details.footColName === "Solutions" && <NewButton />}
+       
 
        </h6>
         
