@@ -10,7 +10,9 @@
   margin: auto;
 }
 .nav{
-  width: 80%;
+  width: 90%;
+  margin: auto;
+
 }
 .navlogo{
   width: 100px;
@@ -47,7 +49,7 @@
 
 .menu li {
   cursor: pointer;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
 }
 
