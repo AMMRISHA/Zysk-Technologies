@@ -199,6 +199,9 @@ width: 95%;
   .disafter{
     display: block;
   }
+  .footerdes ul{
+    width: 50%;
+  }
 }
 @media (max-width:350px) {
   .freq{
