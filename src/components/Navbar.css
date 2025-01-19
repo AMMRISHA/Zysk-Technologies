@@ -9,6 +9,9 @@
   border-bottom: 1px solid #ebe6e6;
   margin: auto;
 }
+.nav{
+  width: 80%;
+}
 .navlogo{
   width: 100px;
 }

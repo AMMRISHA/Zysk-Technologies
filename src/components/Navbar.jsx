@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <>
       <div className="navbar">
-      
+        <div className='nav'>
         <div className='navlogo'>
             <img src="logo.JPG" alt="Right Logo" />
           </div>
@@ -33,7 +33,7 @@ function Navbar() {
 
           </li>
         </div>
-
+        </div>
 
         {/* Dropdown Button for smaller screens */}
         <div className="dropdown-button" onClick={toggleMenu}>
