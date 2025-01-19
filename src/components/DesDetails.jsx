@@ -7,7 +7,7 @@ function DesDetails({ footname }) {
         {footname.map((name, index) => (
           <li key={index}>{name}
           
-          {details.footColName === "Solutions" && <NewButton />}
+          {name === "Solutions" && <NewButton />}
           </li>
         ))}
     
