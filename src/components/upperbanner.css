@@ -111,7 +111,7 @@ border-radius: 40px;
 
 @media (max-width:400px) {
   .upperBannerbtndiv2{
-    width: 100%;
+    width: 90%;
     flex-direction: column-reverse;
 
   }
