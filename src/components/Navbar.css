@@ -74,7 +74,7 @@
 
 @media (max-width: 720px) {
   .menu li{
-    font-size: 12px;
+    font-size: 10px;
   }
   .navlist{
     padding: 0 15px;
