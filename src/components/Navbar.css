@@ -49,7 +49,7 @@
 
 .menu li {
   cursor: pointer;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 600;
 }
 
@@ -64,7 +64,12 @@
   display: none;
   cursor: pointer;
 }
-
+@media (max-width:800px) {
+  .menu li {
+    cursor: pointer;
+    font-size: 14px;
+  }
+}
 @media (max-width:600px) {
   .navbar{
     padding: 7px 7px;
