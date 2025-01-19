@@ -26,7 +26,11 @@ function Navbar() {
           <li>Pricing</li>
           </ul>
           <li className="rightlogo">
+
             <img src="public/logo2.JPG" alt="Logo" />
+
+            <img src="public/logo2.jpg" alt="Logo" />
+
           </li>
         </div>
 
