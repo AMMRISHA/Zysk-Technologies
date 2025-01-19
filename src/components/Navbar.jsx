@@ -16,7 +16,7 @@ function Navbar() {
       <div className="navbar">
       
         <div className='navlogo'>
-            <img src="public/logo.jpg" alt="Right Logo" />
+            <img src="public/logo.JPG" alt="Right Logo" />
           </div>
         <div  className={isMenuOpen ? "menu open" : "menu"}>
           <ul className='navlist'>
