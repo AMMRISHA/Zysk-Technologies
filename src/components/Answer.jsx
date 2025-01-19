@@ -24,7 +24,7 @@ function Answer({ question, answer, isOpen, toggleAnswer }) {
       >
         {/* Conditional icon: + for closed, - for open */}
       
-        <strong style={{fontSize:"clamp(12px , 2vw, 10px)"}}>{question}</strong>
+        <strong style={{fontSize:"clamp(10px , 2vw, 15px)"}}>{question}</strong>
         <span className="dropdownfreq">
           {isOpen ? <BsDashCircle size={20} /> : <GoPlusCircle size={20} />}
         </span>
