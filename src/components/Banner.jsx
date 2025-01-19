@@ -4,7 +4,7 @@ function Banner(){
   return<>
     <div className="banner">
     <div className='bannerdiv'>
-    <img src='../public/logo3.png'></img>
+    <img src='/public/logo3.png'></img>
     </div>
     </div>
   </>
