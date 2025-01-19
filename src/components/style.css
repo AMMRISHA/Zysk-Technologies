@@ -112,6 +112,7 @@ flex-wrap: wrap;
 }
 .footerdes ul h6{
   font-size: clamp(8px, 2vw, 10px);
+  color: grey;
   
 }
 
