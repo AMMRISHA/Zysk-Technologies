@@ -27,7 +27,7 @@ function Navbar() {
           </ul>
           <li className="rightlogo">
 
-            <img src="public/logo2.JPG" alt="Logo" />
+            <img src="logo2.JPG" alt="Logo" />
 
             <img src="public/logo2.jpg" alt="Logo" />
 
