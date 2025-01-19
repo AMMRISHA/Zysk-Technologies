@@ -21,33 +21,33 @@ function App()
   const Blogseries =[
     {
       id:1,
-      link:"/public/blog1.png",
+      link:"..../public/blog1.png",
       heading5:"Design",
       heading3:"UX review presentations ",
       para:"How do you create compelling presentations that wow your colleagues and impress your managers?",
-      blogLower1link:"/public/logo2.jpg",
+      blogLower1link:"..../public/logo2.jpg",
       heading6:"Olivia Riya",
       heading7:"20 Jan 2024"
 
     },
     {
       id:2,
-      link:"/public/blog2.png",
+      link:"..../public/blog2.png",
       heading5:"Product",
       heading3:"Migrating to Linear 101 ",
       para:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started.",
-      blogLower1link:"/public/logo21.jpg",
+      blogLower1link:"..../public/logo21.jpg",
       heading6:"Phoenix Baker",
       heading7:"19 Jan 2024"
 
     },
     {
       id:3,
-      link:"/public/blog3.png",
+      link:"..../public/blog3.png",
       heading5:"Software Engineering",
       heading3:"Building your API stack ",
       para:"The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them.",
-      blogLower1link:"/public/logo22.jpg",
+      blogLower1link:"..../public/logo22.jpg",
       heading6:"Lana Steiner",
       heading7:"18 Jan 2024"
 
