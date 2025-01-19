@@ -102,7 +102,7 @@ flex-wrap: wrap;
 
 }
 .footerdes ul li{
-  font-size: 9px;
+  font-size: clamp(10px, 2vw, 14px);
     gap: 6px;
     display: flex
 ;
@@ -111,7 +111,8 @@ flex-wrap: wrap;
     align-items: flex-start;
 }
 .footerdes ul h6{
-  font-size: 8px;
+  font-size: clamp(8px, 2vw, 10px);
+  
 }
 
 
