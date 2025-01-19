@@ -50,6 +50,7 @@ flex-wrap: wrap;
   color: #E63F3A;
 }
 .bsize{
+  width: 100%;
   font-size:9px;
   font-weight: 600;
 }
