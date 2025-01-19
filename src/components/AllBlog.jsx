@@ -7,7 +7,7 @@ function AllBlog({Blogseries})
     <div className="blog-upper">
               <div className="blog-upper-1">
                 <h5 className="bcolor bsize">Our blog</h5>
-                <button class="upperbtn221 dis radius ">View all posts </button>
+                <button class="upperbtn221 dis radius " >View all posts </button>
               </div>
               <h2 style={{fontSize: "clamp(18px, 2vw, 20px)"}}> Latest blog posts</h2>
               <p style={{fontSize: "11px"}} >Tool and strategies modern teams need to help their companies grow.</p>
