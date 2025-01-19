@@ -31,7 +31,7 @@ function Answer({ question, answer, isOpen, toggleAnswer }) {
       </div>
 
       {/* Answer is displayed only if isOpen is true */}
-      {isOpen && <p style={{ margin: "10px auto", color: "#333" , fontSize:"clamp(12px , 2vw, 10px)"}}>{answer}</p>}
+      {isOpen && <p style={{ margin: "10px auto", color: "#333" , fontSize:"clamp(10px , 2vw, 15px)"}}>{answer}</p>}
     </div>
   );
 }
