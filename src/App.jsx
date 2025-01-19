@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import UpperBanner from './components/UpperBanner';
 import Banner from './components/Banner';
 import Colaboration from './components/Colaboration';
@@ -117,7 +117,7 @@ function App()
   };
 
  return <>
-      {/* <Navbar></Navbar> */}
+      <Navbar></Navbar>
       <UpperBanner></UpperBanner>
       <Banner></Banner>
       <Colaboration></Colaboration>
