@@ -93,12 +93,12 @@ flex-wrap: wrap;
   width: 100px;
     list-style: none;
     text-decoration: none;
-    margin: auto;
+    margin:10px auto;
     justify-content: center;
-    align-items: center;
-
+display: flex;
     flex-direction: column;
     text-align: left;
+    gap: 5px;
 
 }
 .footerdes ul li{
@@ -176,8 +176,8 @@ text-align: center;
   }
 }
 @media (max-width:800px) {
-  .footerdes ul{
-
+  .footerdes {
+width: 100%;
   }
 }
 @media (max-width:500px) {
