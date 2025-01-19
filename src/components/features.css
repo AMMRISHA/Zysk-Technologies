@@ -37,7 +37,7 @@
 }
 .features-head p{
   color: #475467;
-  font-size: clamp(12px, 2vw, 6px);
+  font-size: clamp(12px, 2vw, 15px);
   line-height: 20px;
   width: 70%;
 }
@@ -69,7 +69,7 @@
 .f-b-box h2{
 
   font-family: 'Inter', sans-serif;
-  font-size: clamp(12px, 2vw, 10px);
+  font-size: clamp(11px, 2vw, 12px);
 
 }
 .f-b-box p{
