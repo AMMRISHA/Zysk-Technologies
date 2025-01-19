@@ -35,9 +35,9 @@ flex-wrap: wrap;
   justify-content:center;
 }
 .blog-box{
-  width: 200px;
+  width: 400px;
   height: auto;
-  margin: auto;
+  margin:10px auto;
   display:flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -162,6 +162,16 @@ text-align: center;
 }
 .disafter{
   display: none;
+}
+@media (max-width:1400px) {
+  .blog-box{
+    width: 300px;
+  }
+}
+@media (max-width:1050px) {
+  .blog-box{
+    width: 200px;
+  }
 }
 @media (max-width:500px) {
   .freq{
